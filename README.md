@@ -1,1 +1,1 @@
-# imgsrepo
+# Images repository.
